@@ -133,21 +133,9 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 ---
 
-## Live Demo
-
-(Add your deployed link here)
-
-Example:
-
-```bash
-https://wishlink.vercel.app
-```
-
----
-
 ## Author
 
-Harshitha Kanthamani
+S Harshitha Kanthamani
 
 GitHub: https://github.com/harshithakanthamani
 
